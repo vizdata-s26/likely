@@ -6,4 +6,4 @@ Much of the code for the plot is inspired by the code provided at <https://githu
 
 This app is used in Lecture 18 of the course, in the "Interactive visualizations and reporting with Shiny" unit.
 
-App is deployed at <https://019d1b00-f201-6cdd-8660-ee47e72b5169.share.connect.posit.cloud/>.
+App is deployed at <https://minecr-likely.share.connect.posit.cloud/>.
