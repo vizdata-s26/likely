@@ -6,6 +6,6 @@ The data used in the app is based on <https://github.com/rfordatascience/tidytue
 
 Much of the code for the plot is inspired by the code provided at <https://github.com/nrennie/tidytuesday/blob/main/2026/2026-03-10/20260310.R> for this submission.
 
-This app is used in Lecture 18 of the course, in the "Interactive visualizations and reporting with Shiny" unit.
+This app is used in Lectures 18 and 19 of the course, in the "Interactive visualizations and reporting with Shiny" unit.
 
 App is deployed at <https://minecr-likely.share.connect.posit.cloud/>.
